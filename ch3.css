@@ -1,0 +1,21 @@
+/* ch3.css - Lab 3.1 external style sheet (Step 2 version) */
+
+body {
+  background-color: white;
+  color: #000099;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+  background-color: #CCCCCC;
+}
+
+h1 {
+  font-family: "Times New Roman", serif;
+  color: black;
+}
+
+.news {
+  color: red;
+  font-style: italic;
+}
