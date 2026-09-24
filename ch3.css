@@ -1,8 +1,8 @@
-/* ch3.css - Lab 3.1 external style sheet (Step 4 - final version) */
+/* ch3.css - Lab 3.1 external style sheet (Step 2 version) */
 
 body {
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: #000099;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -12,7 +12,7 @@ a {
 
 h1 {
   font-family: "Times New Roman", serif;
-  color: #CCCCCC;
+  color: black;
 }
 
 .news {
